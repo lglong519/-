@@ -1,0 +1,344 @@
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc44c" }, "name" : { "en" : "Bei Jing City", "zh" : "北京市" }, "provinceId" : "110000", "cityId" : "110100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc44d" }, "name" : { "en" : "Tian Jin City", "zh" : "天津市" }, "provinceId" : "120000", "cityId" : "120100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc44e" }, "name" : { "en" : "Shi Jia Zhuang City", "zh" : "石家庄市" }, "provinceId" : "130000", "cityId" : "130100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc44f" }, "name" : { "en" : "Tang Shan City", "zh" : "唐山市" }, "provinceId" : "130000", "cityId" : "130200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc450" }, "name" : { "en" : "Qin Huang Dao City", "zh" : "秦皇岛市" }, "provinceId" : "130000", "cityId" : "130300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc451" }, "name" : { "en" : "Han Dan City", "zh" : "邯郸市" }, "provinceId" : "130000", "cityId" : "130400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc452" }, "name" : { "en" : "Xing Tai City", "zh" : "邢台市" }, "provinceId" : "130000", "cityId" : "130500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc453" }, "name" : { "en" : "Bao Ding City", "zh" : "保定市" }, "provinceId" : "130000", "cityId" : "130600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc454" }, "name" : { "en" : "Zhang Jia Kou City", "zh" : "张家口市" }, "provinceId" : "130000", "cityId" : "130700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc455" }, "name" : { "en" : "Cheng De City", "zh" : "承德市" }, "provinceId" : "130000", "cityId" : "130800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc456" }, "name" : { "en" : "Cang Zhou City", "zh" : "沧州市" }, "provinceId" : "130000", "cityId" : "130900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc457" }, "name" : { "en" : "Lang Fang City", "zh" : "廊坊市" }, "provinceId" : "130000", "cityId" : "131000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc458" }, "name" : { "en" : "Heng Shui City", "zh" : "衡水市" }, "provinceId" : "130000", "cityId" : "131100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc459" }, "name" : { "en" : "Sheng Zhi Xia Xian Ji Xing Zheng Qu Hua", "zh" : "省直辖县级行政区划" }, "provinceId" : "130000", "cityId" : "139000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc45a" }, "name" : { "en" : "Tai Yuan City", "zh" : "太原市" }, "provinceId" : "140000", "cityId" : "140100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc45b" }, "name" : { "en" : "Da Tong City", "zh" : "大同市" }, "provinceId" : "140000", "cityId" : "140200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc45c" }, "name" : { "en" : "Yang Quan City", "zh" : "阳泉市" }, "provinceId" : "140000", "cityId" : "140300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc45d" }, "name" : { "en" : "Chang Zhi City", "zh" : "长治市" }, "provinceId" : "140000", "cityId" : "140400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc45e" }, "name" : { "en" : "Jin Cheng City", "zh" : "晋城市" }, "provinceId" : "140000", "cityId" : "140500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc45f" }, "name" : { "en" : "Shuo Zhou City", "zh" : "朔州市" }, "provinceId" : "140000", "cityId" : "140600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc460" }, "name" : { "en" : "Jin Zhong City", "zh" : "晋中市" }, "provinceId" : "140000", "cityId" : "140700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc461" }, "name" : { "en" : "Yun Cheng City", "zh" : "运城市" }, "provinceId" : "140000", "cityId" : "140800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc462" }, "name" : { "en" : "Xin Zhou City", "zh" : "忻州市" }, "provinceId" : "140000", "cityId" : "140900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc463" }, "name" : { "en" : "Lin Fen City", "zh" : "临汾市" }, "provinceId" : "140000", "cityId" : "141000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc464" }, "name" : { "en" : "Lu Liang City", "zh" : "吕梁市" }, "provinceId" : "140000", "cityId" : "141100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc465" }, "name" : { "en" : "Hu He Hao Te City", "zh" : "呼和浩特市" }, "provinceId" : "150000", "cityId" : "150100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc466" }, "name" : { "en" : "Bao Tou City", "zh" : "包头市" }, "provinceId" : "150000", "cityId" : "150200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc467" }, "name" : { "en" : "Wu Hai City", "zh" : "乌海市" }, "provinceId" : "150000", "cityId" : "150300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc468" }, "name" : { "en" : "Chi Feng City", "zh" : "赤峰市" }, "provinceId" : "150000", "cityId" : "150400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc469" }, "name" : { "en" : "Tong Liao City", "zh" : "通辽市" }, "provinceId" : "150000", "cityId" : "150500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc46a" }, "name" : { "en" : "E Er Duo Si City", "zh" : "鄂尔多斯市" }, "provinceId" : "150000", "cityId" : "150600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc46b" }, "name" : { "en" : "Hu Lun Bei Er City", "zh" : "呼伦贝尔市" }, "provinceId" : "150000", "cityId" : "150700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc46c" }, "name" : { "en" : "Ba Yan Nao Er City", "zh" : "巴彦淖尔市" }, "provinceId" : "150000", "cityId" : "150800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc46d" }, "name" : { "en" : "Wu Lan Cha Bu City", "zh" : "乌兰察布市" }, "provinceId" : "150000", "cityId" : "150900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc46e" }, "name" : { "en" : "Xing An Meng", "zh" : "兴安盟" }, "provinceId" : "150000", "cityId" : "152200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc46f" }, "name" : { "en" : "Xi Lin Guo Le Meng", "zh" : "锡林郭勒盟" }, "provinceId" : "150000", "cityId" : "152500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc470" }, "name" : { "en" : "A La Shan Meng", "zh" : "阿拉善盟" }, "provinceId" : "150000", "cityId" : "152900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc471" }, "name" : { "en" : "Shen Yang City", "zh" : "沈阳市" }, "provinceId" : "210000", "cityId" : "210100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc472" }, "name" : { "en" : "Da Lian City", "zh" : "大连市" }, "provinceId" : "210000", "cityId" : "210200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc473" }, "name" : { "en" : "An Shan City", "zh" : "鞍山市" }, "provinceId" : "210000", "cityId" : "210300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc474" }, "name" : { "en" : "Fu Shun City", "zh" : "抚顺市" }, "provinceId" : "210000", "cityId" : "210400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc475" }, "name" : { "en" : "Ben Xi City", "zh" : "本溪市" }, "provinceId" : "210000", "cityId" : "210500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc476" }, "name" : { "en" : "Dan Dong City", "zh" : "丹东市" }, "provinceId" : "210000", "cityId" : "210600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc477" }, "name" : { "en" : "Jin Zhou City", "zh" : "锦州市" }, "provinceId" : "210000", "cityId" : "210700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc478" }, "name" : { "en" : "Ying Kou City", "zh" : "营口市" }, "provinceId" : "210000", "cityId" : "210800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc479" }, "name" : { "en" : "Fu Xin City", "zh" : "阜新市" }, "provinceId" : "210000", "cityId" : "210900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc47a" }, "name" : { "en" : "Liao Yang City", "zh" : "辽阳市" }, "provinceId" : "210000", "cityId" : "211000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc47b" }, "name" : { "en" : "Pan Jin City", "zh" : "盘锦市" }, "provinceId" : "210000", "cityId" : "211100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc47c" }, "name" : { "en" : "Tie Ling City", "zh" : "铁岭市" }, "provinceId" : "210000", "cityId" : "211200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc47d" }, "name" : { "en" : "Zhao Yang City", "zh" : "朝阳市" }, "provinceId" : "210000", "cityId" : "211300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc47e" }, "name" : { "en" : "Hu Lu Dao City", "zh" : "葫芦岛市" }, "provinceId" : "210000", "cityId" : "211400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc47f" }, "name" : { "en" : "Chang Chun City", "zh" : "长春市" }, "provinceId" : "220000", "cityId" : "220100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc480" }, "name" : { "en" : "Ji Lin City", "zh" : "吉林市" }, "provinceId" : "220000", "cityId" : "220200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc481" }, "name" : { "en" : "Si Ping City", "zh" : "四平市" }, "provinceId" : "220000", "cityId" : "220300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc482" }, "name" : { "en" : "Liao Yuan City", "zh" : "辽源市" }, "provinceId" : "220000", "cityId" : "220400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc483" }, "name" : { "en" : "Tong Hua City", "zh" : "通化市" }, "provinceId" : "220000", "cityId" : "220500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc484" }, "name" : { "en" : "Bai Shan City", "zh" : "白山市" }, "provinceId" : "220000", "cityId" : "220600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc485" }, "name" : { "en" : "Song Yuan City", "zh" : "松原市" }, "provinceId" : "220000", "cityId" : "220700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc486" }, "name" : { "en" : "Bai Cheng City", "zh" : "白城市" }, "provinceId" : "220000", "cityId" : "220800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc487" }, "name" : { "en" : "Yan Bian Zhao Xian Zu Zi Zhi Zhou", "zh" : "延边朝鲜族自治州" }, "provinceId" : "220000", "cityId" : "222400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc488" }, "name" : { "en" : "Ha Er Bin City", "zh" : "哈尔滨市" }, "provinceId" : "230000", "cityId" : "230100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc489" }, "name" : { "en" : "Qi Qi Ha Er City", "zh" : "齐齐哈尔市" }, "provinceId" : "230000", "cityId" : "230200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc48a" }, "name" : { "en" : "Ji Xi City", "zh" : "鸡西市" }, "provinceId" : "230000", "cityId" : "230300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc48b" }, "name" : { "en" : "He Gang City", "zh" : "鹤岗市" }, "provinceId" : "230000", "cityId" : "230400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc48c" }, "name" : { "en" : "Shuang Ya Shan City", "zh" : "双鸭山市" }, "provinceId" : "230000", "cityId" : "230500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc48d" }, "name" : { "en" : "Da Qing City", "zh" : "大庆市" }, "provinceId" : "230000", "cityId" : "230600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc48e" }, "name" : { "en" : "Yi Chun City", "zh" : "伊春市" }, "provinceId" : "230000", "cityId" : "230700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc48f" }, "name" : { "en" : "Jia Mu Si City", "zh" : "佳木斯市" }, "provinceId" : "230000", "cityId" : "230800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc490" }, "name" : { "en" : "Qi Tai He City", "zh" : "七台河市" }, "provinceId" : "230000", "cityId" : "230900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc491" }, "name" : { "en" : "Mu Dan Jiang City", "zh" : "牡丹江市" }, "provinceId" : "230000", "cityId" : "231000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc492" }, "name" : { "en" : "Hei He City", "zh" : "黑河市" }, "provinceId" : "230000", "cityId" : "231100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc493" }, "name" : { "en" : "Sui Hua City", "zh" : "绥化市" }, "provinceId" : "230000", "cityId" : "231200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc494" }, "name" : { "en" : "Da Xing An Ling Region", "zh" : "大兴安岭地区" }, "provinceId" : "230000", "cityId" : "232700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc495" }, "name" : { "en" : "Shang Hai City", "zh" : "上海市" }, "provinceId" : "310000", "cityId" : "310100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc496" }, "name" : { "en" : "Nan Jing City", "zh" : "南京市" }, "provinceId" : "320000", "cityId" : "320100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc497" }, "name" : { "en" : "Wu Xi City", "zh" : "无锡市" }, "provinceId" : "320000", "cityId" : "320200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc498" }, "name" : { "en" : "Xu Zhou City", "zh" : "徐州市" }, "provinceId" : "320000", "cityId" : "320300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc499" }, "name" : { "en" : "Chang Zhou City", "zh" : "常州市" }, "provinceId" : "320000", "cityId" : "320400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc49a" }, "name" : { "en" : "Su Zhou City", "zh" : "苏州市" }, "provinceId" : "320000", "cityId" : "320500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc49b" }, "name" : { "en" : "Nan Tong City", "zh" : "南通市" }, "provinceId" : "320000", "cityId" : "320600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc49c" }, "name" : { "en" : "Lian Yun Gang City", "zh" : "连云港市" }, "provinceId" : "320000", "cityId" : "320700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc49d" }, "name" : { "en" : "Huai An City", "zh" : "淮安市" }, "provinceId" : "320000", "cityId" : "320800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc49e" }, "name" : { "en" : "Yan Cheng City", "zh" : "盐城市" }, "provinceId" : "320000", "cityId" : "320900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc49f" }, "name" : { "en" : "Yang Zhou City", "zh" : "扬州市" }, "provinceId" : "320000", "cityId" : "321000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a0" }, "name" : { "en" : "Zhen Jiang City", "zh" : "镇江市" }, "provinceId" : "320000", "cityId" : "321100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a1" }, "name" : { "en" : "Tai Zhou City", "zh" : "泰州市" }, "provinceId" : "320000", "cityId" : "321200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a2" }, "name" : { "en" : "Su Qian City", "zh" : "宿迁市" }, "provinceId" : "320000", "cityId" : "321300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a3" }, "name" : { "en" : "Hang Zhou City", "zh" : "杭州市" }, "provinceId" : "330000", "cityId" : "330100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a4" }, "name" : { "en" : "Ning Bo City", "zh" : "宁波市" }, "provinceId" : "330000", "cityId" : "330200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a5" }, "name" : { "en" : "Wen Zhou City", "zh" : "温州市" }, "provinceId" : "330000", "cityId" : "330300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a6" }, "name" : { "en" : "Jia Xing City", "zh" : "嘉兴市" }, "provinceId" : "330000", "cityId" : "330400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a7" }, "name" : { "en" : "Hu Zhou City", "zh" : "湖州市" }, "provinceId" : "330000", "cityId" : "330500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a8" }, "name" : { "en" : "Shao Xing City", "zh" : "绍兴市" }, "provinceId" : "330000", "cityId" : "330600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4a9" }, "name" : { "en" : "Jin Hua City", "zh" : "金华市" }, "provinceId" : "330000", "cityId" : "330700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4aa" }, "name" : { "en" : "Qu Zhou City", "zh" : "衢州市" }, "provinceId" : "330000", "cityId" : "330800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ab" }, "name" : { "en" : "Zhou Shan City", "zh" : "舟山市" }, "provinceId" : "330000", "cityId" : "330900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ac" }, "name" : { "en" : "Tai Zhou City", "zh" : "台州市" }, "provinceId" : "330000", "cityId" : "331000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ad" }, "name" : { "en" : "Li Shui City", "zh" : "丽水市" }, "provinceId" : "330000", "cityId" : "331100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ae" }, "name" : { "en" : "He Fei City", "zh" : "合肥市" }, "provinceId" : "340000", "cityId" : "340100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4af" }, "name" : { "en" : "Wu Hu City", "zh" : "芜湖市" }, "provinceId" : "340000", "cityId" : "340200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b0" }, "name" : { "en" : "Bang Bu City", "zh" : "蚌埠市" }, "provinceId" : "340000", "cityId" : "340300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b1" }, "name" : { "en" : "Huai Nan City", "zh" : "淮南市" }, "provinceId" : "340000", "cityId" : "340400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b2" }, "name" : { "en" : "Ma An Shan City", "zh" : "马鞍山市" }, "provinceId" : "340000", "cityId" : "340500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b3" }, "name" : { "en" : "Huai Bei City", "zh" : "淮北市" }, "provinceId" : "340000", "cityId" : "340600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b4" }, "name" : { "en" : "Tong Ling City", "zh" : "铜陵市" }, "provinceId" : "340000", "cityId" : "340700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b5" }, "name" : { "en" : "An Qing City", "zh" : "安庆市" }, "provinceId" : "340000", "cityId" : "340800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b6" }, "name" : { "en" : "Huang Shan City", "zh" : "黄山市" }, "provinceId" : "340000", "cityId" : "341000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b7" }, "name" : { "en" : "Chu Zhou City", "zh" : "滁州市" }, "provinceId" : "340000", "cityId" : "341100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b8" }, "name" : { "en" : "Fu Yang City", "zh" : "阜阳市" }, "provinceId" : "340000", "cityId" : "341200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4b9" }, "name" : { "en" : "Su Zhou City", "zh" : "宿州市" }, "provinceId" : "340000", "cityId" : "341300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ba" }, "name" : { "en" : "Liu An City", "zh" : "六安市" }, "provinceId" : "340000", "cityId" : "341500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4bb" }, "name" : { "en" : "Bo Zhou City", "zh" : "亳州市" }, "provinceId" : "340000", "cityId" : "341600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4bc" }, "name" : { "en" : "Chi Zhou City", "zh" : "池州市" }, "provinceId" : "340000", "cityId" : "341700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4bd" }, "name" : { "en" : "Xuan Cheng City", "zh" : "宣城市" }, "provinceId" : "340000", "cityId" : "341800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4be" }, "name" : { "en" : "Fu Zhou City", "zh" : "福州市" }, "provinceId" : "350000", "cityId" : "350100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4bf" }, "name" : { "en" : "Sha Men City", "zh" : "厦门市" }, "provinceId" : "350000", "cityId" : "350200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c0" }, "name" : { "en" : "Fu Tian City", "zh" : "莆田市" }, "provinceId" : "350000", "cityId" : "350300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c1" }, "name" : { "en" : "San Ming City", "zh" : "三明市" }, "provinceId" : "350000", "cityId" : "350400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c2" }, "name" : { "en" : "Quan Zhou City", "zh" : "泉州市" }, "provinceId" : "350000", "cityId" : "350500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c3" }, "name" : { "en" : "Zhang Zhou City", "zh" : "漳州市" }, "provinceId" : "350000", "cityId" : "350600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c4" }, "name" : { "en" : "Nan Ping City", "zh" : "南平市" }, "provinceId" : "350000", "cityId" : "350700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c5" }, "name" : { "en" : "Long Yan City", "zh" : "龙岩市" }, "provinceId" : "350000", "cityId" : "350800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c6" }, "name" : { "en" : "Ning De City", "zh" : "宁德市" }, "provinceId" : "350000", "cityId" : "350900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c7" }, "name" : { "en" : "Nan Chang City", "zh" : "南昌市" }, "provinceId" : "360000", "cityId" : "360100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c8" }, "name" : { "en" : "Jing De Zhen City", "zh" : "景德镇市" }, "provinceId" : "360000", "cityId" : "360200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4c9" }, "name" : { "en" : "Ping Xiang City", "zh" : "萍乡市" }, "provinceId" : "360000", "cityId" : "360300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ca" }, "name" : { "en" : "Jiu Jiang City", "zh" : "九江市" }, "provinceId" : "360000", "cityId" : "360400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4cb" }, "name" : { "en" : "Xin Yu City", "zh" : "新余市" }, "provinceId" : "360000", "cityId" : "360500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4cc" }, "name" : { "en" : "Ying Tan City", "zh" : "鹰潭市" }, "provinceId" : "360000", "cityId" : "360600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4cd" }, "name" : { "en" : "Gan Zhou City", "zh" : "赣州市" }, "provinceId" : "360000", "cityId" : "360700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ce" }, "name" : { "en" : "Ji An City", "zh" : "吉安市" }, "provinceId" : "360000", "cityId" : "360800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4cf" }, "name" : { "en" : "Yi Chun City", "zh" : "宜春市" }, "provinceId" : "360000", "cityId" : "360900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d0" }, "name" : { "en" : "Fu Zhou City", "zh" : "抚州市" }, "provinceId" : "360000", "cityId" : "361000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d1" }, "name" : { "en" : "Shang Rao City", "zh" : "上饶市" }, "provinceId" : "360000", "cityId" : "361100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d2" }, "name" : { "en" : "Ji Nan City", "zh" : "济南市" }, "provinceId" : "370000", "cityId" : "370100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d3" }, "name" : { "en" : "Qing Dao City", "zh" : "青岛市" }, "provinceId" : "370000", "cityId" : "370200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d4" }, "name" : { "en" : "Zi Bo City", "zh" : "淄博市" }, "provinceId" : "370000", "cityId" : "370300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d5" }, "name" : { "en" : "Zao Zhuang City", "zh" : "枣庄市" }, "provinceId" : "370000", "cityId" : "370400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d6" }, "name" : { "en" : "Dong Ying City", "zh" : "东营市" }, "provinceId" : "370000", "cityId" : "370500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d7" }, "name" : { "en" : "Yan Tai City", "zh" : "烟台市" }, "provinceId" : "370000", "cityId" : "370600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d8" }, "name" : { "en" : "Wei Fang City", "zh" : "潍坊市" }, "provinceId" : "370000", "cityId" : "370700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4d9" }, "name" : { "en" : "Ji Ning City", "zh" : "济宁市" }, "provinceId" : "370000", "cityId" : "370800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4da" }, "name" : { "en" : "Tai An City", "zh" : "泰安市" }, "provinceId" : "370000", "cityId" : "370900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4db" }, "name" : { "en" : "Wei Hai City", "zh" : "威海市" }, "provinceId" : "370000", "cityId" : "371000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4dc" }, "name" : { "en" : "Ri Zhao City", "zh" : "日照市" }, "provinceId" : "370000", "cityId" : "371100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4dd" }, "name" : { "en" : "Lai Wu City", "zh" : "莱芜市" }, "provinceId" : "370000", "cityId" : "371200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4de" }, "name" : { "en" : "Lin Yi City", "zh" : "临沂市" }, "provinceId" : "370000", "cityId" : "371300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4df" }, "name" : { "en" : "De Zhou City", "zh" : "德州市" }, "provinceId" : "370000", "cityId" : "371400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e0" }, "name" : { "en" : "Liao Cheng City", "zh" : "聊城市" }, "provinceId" : "370000", "cityId" : "371500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e1" }, "name" : { "en" : "Bin Zhou City", "zh" : "滨州市" }, "provinceId" : "370000", "cityId" : "371600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e2" }, "name" : { "en" : "He Ze City", "zh" : "菏泽市" }, "provinceId" : "370000", "cityId" : "371700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e3" }, "name" : { "en" : "Zheng Zhou City", "zh" : "郑州市" }, "provinceId" : "410000", "cityId" : "410100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e4" }, "name" : { "en" : "Kai Feng City", "zh" : "开封市" }, "provinceId" : "410000", "cityId" : "410200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e5" }, "name" : { "en" : "Luo Yang City", "zh" : "洛阳市" }, "provinceId" : "410000", "cityId" : "410300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e6" }, "name" : { "en" : "Ping Ding Shan City", "zh" : "平顶山市" }, "provinceId" : "410000", "cityId" : "410400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e7" }, "name" : { "en" : "An Yang City", "zh" : "安阳市" }, "provinceId" : "410000", "cityId" : "410500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e8" }, "name" : { "en" : "He Bi City", "zh" : "鹤壁市" }, "provinceId" : "410000", "cityId" : "410600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4e9" }, "name" : { "en" : "Xin Xiang City", "zh" : "新乡市" }, "provinceId" : "410000", "cityId" : "410700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ea" }, "name" : { "en" : "Jiao Zuo City", "zh" : "焦作市" }, "provinceId" : "410000", "cityId" : "410800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4eb" }, "name" : { "en" : "Pu Yang City", "zh" : "濮阳市" }, "provinceId" : "410000", "cityId" : "410900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ec" }, "name" : { "en" : "Xu Chang City", "zh" : "许昌市" }, "provinceId" : "410000", "cityId" : "411000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ed" }, "name" : { "en" : "Lei He City", "zh" : "漯河市" }, "provinceId" : "410000", "cityId" : "411100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ee" }, "name" : { "en" : "San Men Xia City", "zh" : "三门峡市" }, "provinceId" : "410000", "cityId" : "411200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ef" }, "name" : { "en" : "Nan Yang City", "zh" : "南阳市" }, "provinceId" : "410000", "cityId" : "411300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f0" }, "name" : { "en" : "Shang Qiu City", "zh" : "商丘市" }, "provinceId" : "410000", "cityId" : "411400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f1" }, "name" : { "en" : "Xin Yang City", "zh" : "信阳市" }, "provinceId" : "410000", "cityId" : "411500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f2" }, "name" : { "en" : "Zhou Kou City", "zh" : "周口市" }, "provinceId" : "410000", "cityId" : "411600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f3" }, "name" : { "en" : "Zhu Ma Dian City", "zh" : "驻马店市" }, "provinceId" : "410000", "cityId" : "411700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f4" }, "name" : { "en" : "Sheng Zhi Xia Xian Ji Xing Zheng Qu Hua", "zh" : "省直辖县级行政区划" }, "provinceId" : "410000", "cityId" : "419000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f5" }, "name" : { "en" : "Wu Han City", "zh" : "武汉市" }, "provinceId" : "420000", "cityId" : "420100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f6" }, "name" : { "en" : "Huang Shi City", "zh" : "黄石市" }, "provinceId" : "420000", "cityId" : "420200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f7" }, "name" : { "en" : "Shi Yan City", "zh" : "十堰市" }, "provinceId" : "420000", "cityId" : "420300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f8" }, "name" : { "en" : "Yi Chang City", "zh" : "宜昌市" }, "provinceId" : "420000", "cityId" : "420500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4f9" }, "name" : { "en" : "Xiang Fan City", "zh" : "襄阳市" }, "provinceId" : "420000", "cityId" : "420600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4fa" }, "name" : { "en" : "E Zhou City", "zh" : "鄂州市" }, "provinceId" : "420000", "cityId" : "420700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4fb" }, "name" : { "en" : "Jing Men City", "zh" : "荆门市" }, "provinceId" : "420000", "cityId" : "420800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4fc" }, "name" : { "en" : "Xiao Gan City", "zh" : "孝感市" }, "provinceId" : "420000", "cityId" : "420900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4fd" }, "name" : { "en" : "Jing Zhou City", "zh" : "荆州市" }, "provinceId" : "420000", "cityId" : "421000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4fe" }, "name" : { "en" : "Huang Gang City", "zh" : "黄冈市" }, "provinceId" : "420000", "cityId" : "421100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc4ff" }, "name" : { "en" : "Xian Ning City", "zh" : "咸宁市" }, "provinceId" : "420000", "cityId" : "421200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc500" }, "name" : { "en" : "Sui Zhou City", "zh" : "随州市" }, "provinceId" : "420000", "cityId" : "421300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc501" }, "name" : { "en" : "En Shi Tu Jia Zu Miao Zu Zi Zhi Zhou", "zh" : "恩施土家族苗族自治州" }, "provinceId" : "420000", "cityId" : "422800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc502" }, "name" : { "en" : "Sheng Zhi Xia Xian Ji Xing Zheng Qu Hua", "zh" : "省直辖县级行政区划" }, "provinceId" : "420000", "cityId" : "429000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc503" }, "name" : { "en" : "Chang Sha City", "zh" : "长沙市" }, "provinceId" : "430000", "cityId" : "430100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc504" }, "name" : { "en" : "Zhu Zhou City", "zh" : "株洲市" }, "provinceId" : "430000", "cityId" : "430200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc505" }, "name" : { "en" : "Xiang Tan City", "zh" : "湘潭市" }, "provinceId" : "430000", "cityId" : "430300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc506" }, "name" : { "en" : "Heng Yang City", "zh" : "衡阳市" }, "provinceId" : "430000", "cityId" : "430400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc507" }, "name" : { "en" : "Shao Yang City", "zh" : "邵阳市" }, "provinceId" : "430000", "cityId" : "430500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc508" }, "name" : { "en" : "Yue Yang City", "zh" : "岳阳市" }, "provinceId" : "430000", "cityId" : "430600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc509" }, "name" : { "en" : "Chang De City", "zh" : "常德市" }, "provinceId" : "430000", "cityId" : "430700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc50a" }, "name" : { "en" : "Zhang Jia Jie City", "zh" : "张家界市" }, "provinceId" : "430000", "cityId" : "430800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc50b" }, "name" : { "en" : "Yi Yang City", "zh" : "益阳市" }, "provinceId" : "430000", "cityId" : "430900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc50c" }, "name" : { "en" : "Chen Zhou City", "zh" : "郴州市" }, "provinceId" : "430000", "cityId" : "431000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc50d" }, "name" : { "en" : "Yong Zhou City", "zh" : "永州市" }, "provinceId" : "430000", "cityId" : "431100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc50e" }, "name" : { "en" : "Huai Hua City", "zh" : "怀化市" }, "provinceId" : "430000", "cityId" : "431200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc50f" }, "name" : { "en" : "Lou Di City", "zh" : "娄底市" }, "provinceId" : "430000", "cityId" : "431300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc510" }, "name" : { "en" : "Xiang Xi Tu Jia Zu Miao Zu Zi Zhi Zhou", "zh" : "湘西土家族苗族自治州" }, "provinceId" : "430000", "cityId" : "433100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc511" }, "name" : { "en" : "Guang Zhou City", "zh" : "广州市" }, "provinceId" : "440000", "cityId" : "440100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc512" }, "name" : { "en" : "Shao Guan City", "zh" : "韶关市" }, "provinceId" : "440000", "cityId" : "440200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc513" }, "name" : { "en" : "Shen Zhen City", "zh" : "深圳市" }, "provinceId" : "440000", "cityId" : "440300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc514" }, "name" : { "en" : "Zhu Hai City", "zh" : "珠海市" }, "provinceId" : "440000", "cityId" : "440400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc515" }, "name" : { "en" : "Shan Tou City", "zh" : "汕头市" }, "provinceId" : "440000", "cityId" : "440500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc516" }, "name" : { "en" : "Fo Shan City", "zh" : "佛山市" }, "provinceId" : "440000", "cityId" : "440600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc517" }, "name" : { "en" : "Jiang Men City", "zh" : "江门市" }, "provinceId" : "440000", "cityId" : "440700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc518" }, "name" : { "en" : "Zhan Jiang City", "zh" : "湛江市" }, "provinceId" : "440000", "cityId" : "440800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc519" }, "name" : { "en" : "Mao Ming City", "zh" : "茂名市" }, "provinceId" : "440000", "cityId" : "440900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc51a" }, "name" : { "en" : "Zhao Qing City", "zh" : "肇庆市" }, "provinceId" : "440000", "cityId" : "441200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc51b" }, "name" : { "en" : "Hui Zhou City", "zh" : "惠州市" }, "provinceId" : "440000", "cityId" : "441300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc51c" }, "name" : { "en" : "Mei Zhou City", "zh" : "梅州市" }, "provinceId" : "440000", "cityId" : "441400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc51d" }, "name" : { "en" : "Shan Wei City", "zh" : "汕尾市" }, "provinceId" : "440000", "cityId" : "441500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc51e" }, "name" : { "en" : "He Yuan City", "zh" : "河源市" }, "provinceId" : "440000", "cityId" : "441600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc51f" }, "name" : { "en" : "Yang Jiang City", "zh" : "阳江市" }, "provinceId" : "440000", "cityId" : "441700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc520" }, "name" : { "en" : "Qing Yuan City", "zh" : "清远市" }, "provinceId" : "440000", "cityId" : "441800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc521" }, "name" : { "en" : "Dong Guan City", "zh" : "东莞市" }, "provinceId" : "440000", "cityId" : "441900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc522" }, "name" : { "en" : "Zhong Shan City", "zh" : "中山市" }, "provinceId" : "440000", "cityId" : "442000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc523" }, "name" : { "en" : "Chao Zhou City", "zh" : "潮州市" }, "provinceId" : "440000", "cityId" : "445100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc524" }, "name" : { "en" : "Jie Yang City", "zh" : "揭阳市" }, "provinceId" : "440000", "cityId" : "445200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc525" }, "name" : { "en" : "Yun Fu City", "zh" : "云浮市" }, "provinceId" : "440000", "cityId" : "445300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc526" }, "name" : { "en" : "Nan Ning City", "zh" : "南宁市" }, "provinceId" : "450000", "cityId" : "450100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc527" }, "name" : { "en" : "Liu Zhou City", "zh" : "柳州市" }, "provinceId" : "450000", "cityId" : "450200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc528" }, "name" : { "en" : "Gui Lin City", "zh" : "桂林市" }, "provinceId" : "450000", "cityId" : "450300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc529" }, "name" : { "en" : "Wu Zhou City", "zh" : "梧州市" }, "provinceId" : "450000", "cityId" : "450400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc52a" }, "name" : { "en" : "Bei Hai City", "zh" : "北海市" }, "provinceId" : "450000", "cityId" : "450500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc52b" }, "name" : { "en" : "Fang Cheng Gang City", "zh" : "防城港市" }, "provinceId" : "450000", "cityId" : "450600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc52c" }, "name" : { "en" : "Qin Zhou City", "zh" : "钦州市" }, "provinceId" : "450000", "cityId" : "450700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc52d" }, "name" : { "en" : "Gui Gang City", "zh" : "贵港市" }, "provinceId" : "450000", "cityId" : "450800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc52e" }, "name" : { "en" : "Yu Lin City", "zh" : "玉林市" }, "provinceId" : "450000", "cityId" : "450900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc52f" }, "name" : { "en" : "Bai Se City", "zh" : "百色市" }, "provinceId" : "450000", "cityId" : "451000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc530" }, "name" : { "en" : "He Zhou City", "zh" : "贺州市" }, "provinceId" : "450000", "cityId" : "451100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc531" }, "name" : { "en" : "He Chi City", "zh" : "河池市" }, "provinceId" : "450000", "cityId" : "451200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc532" }, "name" : { "en" : "Lai Bin City", "zh" : "来宾市" }, "provinceId" : "450000", "cityId" : "451300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc533" }, "name" : { "en" : "Chong Zuo City", "zh" : "崇左市" }, "provinceId" : "450000", "cityId" : "451400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc534" }, "name" : { "en" : "Hai Kou City", "zh" : "海口市" }, "provinceId" : "460000", "cityId" : "460100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc535" }, "name" : { "en" : "San Ya City", "zh" : "三亚市" }, "provinceId" : "460000", "cityId" : "460200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc536" }, "name" : { "en" : "San Sha City", "zh" : "三沙市" }, "provinceId" : "460000", "cityId" : "460300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc537" }, "name" : { "en" : "Dan Zhou City", "zh" : "儋州市" }, "provinceId" : "460000", "cityId" : "460400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc538" }, "name" : { "en" : "Sheng Zhi Xia Xian Ji Xing Zheng Qu Hua", "zh" : "省直辖县级行政区划" }, "provinceId" : "460000", "cityId" : "469000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc539" }, "name" : { "en" : "Chong Qing City", "zh" : "重庆市" }, "provinceId" : "500000", "cityId" : "500100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc53a" }, "name" : { "en" : "Xian ", "zh" : "县" }, "provinceId" : "500000", "cityId" : "500200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc53b" }, "name" : { "en" : "Cheng Du City", "zh" : "成都市" }, "provinceId" : "510000", "cityId" : "510100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc53c" }, "name" : { "en" : "Zi Gong City", "zh" : "自贡市" }, "provinceId" : "510000", "cityId" : "510300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc53d" }, "name" : { "en" : "Pan Zhi Hua City", "zh" : "攀枝花市" }, "provinceId" : "510000", "cityId" : "510400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc53e" }, "name" : { "en" : "Lu Zhou City", "zh" : "泸州市" }, "provinceId" : "510000", "cityId" : "510500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc53f" }, "name" : { "en" : "De Yang City", "zh" : "德阳市" }, "provinceId" : "510000", "cityId" : "510600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc540" }, "name" : { "en" : "Mian Yang City", "zh" : "绵阳市" }, "provinceId" : "510000", "cityId" : "510700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc541" }, "name" : { "en" : "Guang Yuan City", "zh" : "广元市" }, "provinceId" : "510000", "cityId" : "510800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc542" }, "name" : { "en" : "Sui Ning City", "zh" : "遂宁市" }, "provinceId" : "510000", "cityId" : "510900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc543" }, "name" : { "en" : "Nei Jiang City", "zh" : "内江市" }, "provinceId" : "510000", "cityId" : "511000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc544" }, "name" : { "en" : "Le Shan City", "zh" : "乐山市" }, "provinceId" : "510000", "cityId" : "511100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc545" }, "name" : { "en" : "Nan Chong City", "zh" : "南充市" }, "provinceId" : "510000", "cityId" : "511300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc546" }, "name" : { "en" : "Mei Shan City", "zh" : "眉山市" }, "provinceId" : "510000", "cityId" : "511400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc547" }, "name" : { "en" : "Yi Bin City", "zh" : "宜宾市" }, "provinceId" : "510000", "cityId" : "511500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc548" }, "name" : { "en" : "Guang An City", "zh" : "广安市" }, "provinceId" : "510000", "cityId" : "511600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc549" }, "name" : { "en" : "Da Zhou City", "zh" : "达州市" }, "provinceId" : "510000", "cityId" : "511700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc54a" }, "name" : { "en" : "Ya An City", "zh" : "雅安市" }, "provinceId" : "510000", "cityId" : "511800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc54b" }, "name" : { "en" : "Ba Zhong City", "zh" : "巴中市" }, "provinceId" : "510000", "cityId" : "511900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc54c" }, "name" : { "en" : "Zi Yang City", "zh" : "资阳市" }, "provinceId" : "510000", "cityId" : "512000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc54d" }, "name" : { "en" : "A Ba Cang Zu Qiang Zu Zi Zhi Zhou", "zh" : "阿坝藏族羌族自治州" }, "provinceId" : "510000", "cityId" : "513200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc54e" }, "name" : { "en" : "Gan Zi Cang Zu Zi Zhi Zhou", "zh" : "甘孜藏族自治州" }, "provinceId" : "510000", "cityId" : "513300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc54f" }, "name" : { "en" : "Liang Shan Yi Zu Zi Zhi Zhou", "zh" : "凉山彝族自治州" }, "provinceId" : "510000", "cityId" : "513400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc550" }, "name" : { "en" : "Gui Yang City", "zh" : "贵阳市" }, "provinceId" : "520000", "cityId" : "520100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc551" }, "name" : { "en" : "Liu Pan Shui City", "zh" : "六盘水市" }, "provinceId" : "520000", "cityId" : "520200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc552" }, "name" : { "en" : "Zun Yi City", "zh" : "遵义市" }, "provinceId" : "520000", "cityId" : "520300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc553" }, "name" : { "en" : "An Shun City", "zh" : "安顺市" }, "provinceId" : "520000", "cityId" : "520400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc554" }, "name" : { "en" : "Bi Jie City", "zh" : "毕节市" }, "provinceId" : "520000", "cityId" : "520500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc555" }, "name" : { "en" : "Tong Ren City", "zh" : "铜仁市" }, "provinceId" : "520000", "cityId" : "520600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc556" }, "name" : { "en" : "Qian Xi Nan Bu Yi Zu Miao Zu Zi Zhi Zhou", "zh" : "黔西南布依族苗族自治州" }, "provinceId" : "520000", "cityId" : "522300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc557" }, "name" : { "en" : "Qian Dong Nan Miao Zu Tong Zu Zi Zhi Zhou", "zh" : "黔东南苗族侗族自治州" }, "provinceId" : "520000", "cityId" : "522600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc558" }, "name" : { "en" : "Qian Nan Bu Yi Zu Miao Zu Zi Zhi Zhou", "zh" : "黔南布依族苗族自治州" }, "provinceId" : "520000", "cityId" : "522700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc559" }, "name" : { "en" : "Kun Ming City", "zh" : "昆明市" }, "provinceId" : "530000", "cityId" : "530100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc55a" }, "name" : { "en" : "Qu Jing City", "zh" : "曲靖市" }, "provinceId" : "530000", "cityId" : "530300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc55b" }, "name" : { "en" : "Yu Xi City", "zh" : "玉溪市" }, "provinceId" : "530000", "cityId" : "530400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc55c" }, "name" : { "en" : "Bao Shan City", "zh" : "保山市" }, "provinceId" : "530000", "cityId" : "530500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc55d" }, "name" : { "en" : "Zhao Tong City", "zh" : "昭通市" }, "provinceId" : "530000", "cityId" : "530600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc55e" }, "name" : { "en" : "Li Jiang City", "zh" : "丽江市" }, "provinceId" : "530000", "cityId" : "530700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc55f" }, "name" : { "en" : "Pu Er City", "zh" : "普洱市" }, "provinceId" : "530000", "cityId" : "530800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc560" }, "name" : { "en" : "Lin Cang City", "zh" : "临沧市" }, "provinceId" : "530000", "cityId" : "530900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc561" }, "name" : { "en" : "Chu Xiong Yi Zu Zi Zhi Zhou", "zh" : "楚雄彝族自治州" }, "provinceId" : "530000", "cityId" : "532300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc562" }, "name" : { "en" : "Hong He Ha Ni Zu Yi Zu Zi Zhi Zhou", "zh" : "红河哈尼族彝族自治州" }, "provinceId" : "530000", "cityId" : "532500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc563" }, "name" : { "en" : "Wen Shan Zhuang Zu Miao Zu Zi Zhi Zhou", "zh" : "文山壮族苗族自治州" }, "provinceId" : "530000", "cityId" : "532600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc564" }, "name" : { "en" : "Xi Shuang Ban Na Dai Zu Zi Zhi Zhou", "zh" : "西双版纳傣族自治州" }, "provinceId" : "530000", "cityId" : "532800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc565" }, "name" : { "en" : "Da Li Bai Zu Zi Zhi Zhou", "zh" : "大理白族自治州" }, "provinceId" : "530000", "cityId" : "532900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc566" }, "name" : { "en" : "De Hong Dai Zu Jing Po Zu Zi Zhi Zhou", "zh" : "德宏傣族景颇族自治州" }, "provinceId" : "530000", "cityId" : "533100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc567" }, "name" : { "en" : "Nu Jiang Li Su Zu Zi Zhi Zhou", "zh" : "怒江傈僳族自治州" }, "provinceId" : "530000", "cityId" : "533300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc568" }, "name" : { "en" : "Di Qing Cang Zu Zi Zhi Zhou", "zh" : "迪庆藏族自治州" }, "provinceId" : "530000", "cityId" : "533400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc569" }, "name" : { "en" : "La Sa City", "zh" : "拉萨市" }, "provinceId" : "540000", "cityId" : "540100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc56a" }, "name" : { "en" : "Ri Ke Ze City", "zh" : "日喀则市" }, "provinceId" : "540000", "cityId" : "540200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc56b" }, "name" : { "en" : "Chang Du City", "zh" : "昌都市" }, "provinceId" : "540000", "cityId" : "540300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc56c" }, "name" : { "en" : "Lin Zhi City", "zh" : "林芝市" }, "provinceId" : "540000", "cityId" : "540400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc56d" }, "name" : { "en" : "Shan Nan City", "zh" : "山南市" }, "provinceId" : "540000", "cityId" : "540500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc56e" }, "name" : { "en" : "Na Qu Region", "zh" : "那曲地区" }, "provinceId" : "540000", "cityId" : "542400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc56f" }, "name" : { "en" : "A Li Region", "zh" : "阿里地区" }, "provinceId" : "540000", "cityId" : "542500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc570" }, "name" : { "en" : "Xi An City", "zh" : "西安市" }, "provinceId" : "610000", "cityId" : "610100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc571" }, "name" : { "en" : "Tong Chuan City", "zh" : "铜川市" }, "provinceId" : "610000", "cityId" : "610200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc572" }, "name" : { "en" : "Bao Ji City", "zh" : "宝鸡市" }, "provinceId" : "610000", "cityId" : "610300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc573" }, "name" : { "en" : "Xian Yang City", "zh" : "咸阳市" }, "provinceId" : "610000", "cityId" : "610400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc574" }, "name" : { "en" : "Wei Nan City", "zh" : "渭南市" }, "provinceId" : "610000", "cityId" : "610500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc575" }, "name" : { "en" : "Yan An City", "zh" : "延安市" }, "provinceId" : "610000", "cityId" : "610600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc576" }, "name" : { "en" : "Han Zhong City", "zh" : "汉中市" }, "provinceId" : "610000", "cityId" : "610700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc577" }, "name" : { "en" : "Yu Lin City", "zh" : "榆林市" }, "provinceId" : "610000", "cityId" : "610800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc578" }, "name" : { "en" : "An Kang City", "zh" : "安康市" }, "provinceId" : "610000", "cityId" : "610900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc579" }, "name" : { "en" : "Shang Luo City", "zh" : "商洛市" }, "provinceId" : "610000", "cityId" : "611000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc57a" }, "name" : { "en" : "Lan Zhou City", "zh" : "兰州市" }, "provinceId" : "620000", "cityId" : "620100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc57b" }, "name" : { "en" : "Jia Yu Guan City", "zh" : "嘉峪关市" }, "provinceId" : "620000", "cityId" : "620200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc57c" }, "name" : { "en" : "Jin Chang City", "zh" : "金昌市" }, "provinceId" : "620000", "cityId" : "620300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc57d" }, "name" : { "en" : "Bai Yin City", "zh" : "白银市" }, "provinceId" : "620000", "cityId" : "620400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc57e" }, "name" : { "en" : "Tian Shui City", "zh" : "天水市" }, "provinceId" : "620000", "cityId" : "620500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc57f" }, "name" : { "en" : "Wu Wei City", "zh" : "武威市" }, "provinceId" : "620000", "cityId" : "620600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc580" }, "name" : { "en" : "Zhang Yi City", "zh" : "张掖市" }, "provinceId" : "620000", "cityId" : "620700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc581" }, "name" : { "en" : "Ping Liang City", "zh" : "平凉市" }, "provinceId" : "620000", "cityId" : "620800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc582" }, "name" : { "en" : "Jiu Quan City", "zh" : "酒泉市" }, "provinceId" : "620000", "cityId" : "620900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc583" }, "name" : { "en" : "Qing Yang City", "zh" : "庆阳市" }, "provinceId" : "620000", "cityId" : "621000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc584" }, "name" : { "en" : "Ding Xi City", "zh" : "定西市" }, "provinceId" : "620000", "cityId" : "621100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc585" }, "name" : { "en" : "Long Nan City", "zh" : "陇南市" }, "provinceId" : "620000", "cityId" : "621200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc586" }, "name" : { "en" : "Lin Xia Hui Zu Zi Zhi Zhou", "zh" : "临夏回族自治州" }, "provinceId" : "620000", "cityId" : "622900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc587" }, "name" : { "en" : "Gan Nan Cang Zu Zi Zhi Zhou", "zh" : "甘南藏族自治州" }, "provinceId" : "620000", "cityId" : "623000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc588" }, "name" : { "en" : "Xi Ning City", "zh" : "西宁市" }, "provinceId" : "630000", "cityId" : "630100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc589" }, "name" : { "en" : "Hai Dong City", "zh" : "海东市" }, "provinceId" : "630000", "cityId" : "630200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc58a" }, "name" : { "en" : "Hai Bei Cang Zu Zi Zhi Zhou", "zh" : "海北藏族自治州" }, "provinceId" : "630000", "cityId" : "632200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc58b" }, "name" : { "en" : "Huang Nan Cang Zu Zi Zhi Zhou", "zh" : "黄南藏族自治州" }, "provinceId" : "630000", "cityId" : "632300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc58c" }, "name" : { "en" : "Hai Nan Cang Zu Zi Zhi Zhou", "zh" : "海南藏族自治州" }, "provinceId" : "630000", "cityId" : "632500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc58d" }, "name" : { "en" : "Guo Luo Cang Zu Zi Zhi Zhou", "zh" : "果洛藏族自治州" }, "provinceId" : "630000", "cityId" : "632600", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc58e" }, "name" : { "en" : "Yu Shu Cang Zu Zi Zhi Zhou", "zh" : "玉树藏族自治州" }, "provinceId" : "630000", "cityId" : "632700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc58f" }, "name" : { "en" : "Hai Xi Meng Gu Zu Cang Zu Zi Zhi Zhou", "zh" : "海西蒙古族藏族自治州" }, "provinceId" : "630000", "cityId" : "632800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc590" }, "name" : { "en" : "Yin Chuan City", "zh" : "银川市" }, "provinceId" : "640000", "cityId" : "640100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc591" }, "name" : { "en" : "Shi Zui Shan City", "zh" : "石嘴山市" }, "provinceId" : "640000", "cityId" : "640200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc592" }, "name" : { "en" : "Wu Zhong City", "zh" : "吴忠市" }, "provinceId" : "640000", "cityId" : "640300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc593" }, "name" : { "en" : "Gu Yuan City", "zh" : "固原市" }, "provinceId" : "640000", "cityId" : "640400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc594" }, "name" : { "en" : "Zhong Wei City", "zh" : "中卫市" }, "provinceId" : "640000", "cityId" : "640500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc595" }, "name" : { "en" : "Wu Lu Mu Qi City", "zh" : "乌鲁木齐市" }, "provinceId" : "650000", "cityId" : "650100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc596" }, "name" : { "en" : "Ke La Ma Yi City", "zh" : "克拉玛依市" }, "provinceId" : "650000", "cityId" : "650200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc597" }, "name" : { "en" : "Tu Lu Fan City", "zh" : "吐鲁番市" }, "provinceId" : "650000", "cityId" : "650400", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc598" }, "name" : { "en" : "Ha Mi City", "zh" : "哈密市" }, "provinceId" : "650000", "cityId" : "650500", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc599" }, "name" : { "en" : "Chang Ji Hui Zu Zi Zhi Zhou", "zh" : "昌吉回族自治州" }, "provinceId" : "650000", "cityId" : "652300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc59a" }, "name" : { "en" : "Bo Er Ta La Meng Gu Zi Zhi Zhou", "zh" : "博尔塔拉蒙古自治州" }, "provinceId" : "650000", "cityId" : "652700", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc59b" }, "name" : { "en" : "Ba Yin Guo Leng Meng Gu Zi Zhi Zhou", "zh" : "巴音郭楞蒙古自治州" }, "provinceId" : "650000", "cityId" : "652800", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc59c" }, "name" : { "en" : "A Ke Su Region", "zh" : "阿克苏地区" }, "provinceId" : "650000", "cityId" : "652900", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc59d" }, "name" : { "en" : "Ke Zi Le Su Ke Er Ke Zi Zi Zhi Zhou", "zh" : "克孜勒苏柯尔克孜自治州" }, "provinceId" : "650000", "cityId" : "653000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc59e" }, "name" : { "en" : "Ke Shi Region", "zh" : "喀什地区" }, "provinceId" : "650000", "cityId" : "653100", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc59f" }, "name" : { "en" : "He Tian Region", "zh" : "和田地区" }, "provinceId" : "650000", "cityId" : "653200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc5a0" }, "name" : { "en" : "Yi Li Ha Sa Ke Zi Zhi Zhou", "zh" : "伊犁哈萨克自治州" }, "provinceId" : "650000", "cityId" : "654000", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc5a1" }, "name" : { "en" : "Ta Cheng Region", "zh" : "塔城地区" }, "provinceId" : "650000", "cityId" : "654200", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc5a2" }, "name" : { "en" : "A Le Tai Region", "zh" : "阿勒泰地区" }, "provinceId" : "650000", "cityId" : "654300", "__v" : 0 }
+{ "_id" : { "$oid" : "5a7fa6c2acaa781bceedc5a3" }, "name" : { "en" : "Zi Zhi Qu Zhi Xia Xian Ji Xing Zheng Qu Hua", "zh" : "自治区直辖县级行政区划" }, "provinceId" : "650000", "cityId" : "659000", "__v" : 0 }
